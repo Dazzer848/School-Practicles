@@ -4,16 +4,10 @@
  */
 package Arrays;
 
-import java.io.FileNotFoundException;
-
 /**
  *
  * @author darrenl
  */
-public class RatingsUI {
-    public static void main(String[] args) throws FileNotFoundException {
-        Ratings r = new Ratings();
-        r.sort();
-        r.add(4);
-    }
+public class NamesArrayUI {
+    
 }

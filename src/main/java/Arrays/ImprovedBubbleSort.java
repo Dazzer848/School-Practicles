@@ -29,14 +29,12 @@ public class ImprovedBubbleSort {
                     changed = true;
                 }
                 
-                if(pointer2 == array.length-3 && pointer3 == array.length-2 && changed == true){
-                    if(changed = true){
+                if(pointer2 == array.length-3 && pointer3 == array.length-2 && changed == false){
                         break;
                     }
                 }
             }
             
-        }
         System.out.println("" +Arrays.toString(array));
     }
     

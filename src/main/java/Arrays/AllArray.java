@@ -93,6 +93,7 @@ public class AllArray {
         }
 
         System.out.println("This found?: " + response);
+        return array;
     }
 
 }

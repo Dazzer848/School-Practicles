@@ -30,6 +30,7 @@ public class DeletingAdding {
     }
     public static int[] searchInt(int[] input){
         input = BubbleArraySorter(input);
+        return input;
         
     }
     
